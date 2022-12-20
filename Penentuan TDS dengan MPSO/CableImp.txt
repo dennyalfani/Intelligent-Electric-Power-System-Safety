@@ -1,0 +1,13 @@
+BaseRdc(Ohm/kft or Ohm/km) = 0.12644
+TcAdj = 1.25025
+RdcT_Adj(Ohm/kft or Ohm/km) = 0.158082
+Rs(uOhm/ft) = 12.7597
+Yshield/sheath_Circ = 0, Yshield/sheath_Eddy = 0.046293
+MF = 1, Ycs = 0.00329321, Ycp = 0.00452476, YsShield = 0, YsSheath = 0, YsShield/Sheath = 0.046293,Ys (Shield + Sheath + Shield/Sheath) = 0.046293, YsArmor = 0, Yconduit = 0
+Rac/Rdc(1.05411) = [1 + MF(1) * (Ycs(0.00329321) + Ycp(0.00452476) + Yshield(0) + Ysheath(0)) + Yconduit(0)] * (1 + Yarmor(0))
+RacT_Adj(Ohm/kft or Ohm/km) = 0.166636
+RL'(Ohm/kft or Ohm/km) = 0.166636
+Delta(m) = 70.7255
+Case1: 3 x 1/C unshielded/unsheathed and unarmoured cable with no Main or Aux N or PE wires as per cases 1a & 1b of IEC 60909-2 Table 7 (TT system)
+X1 Factor = 1
+Unit Conversion Factor = 1
