@@ -1,0 +1,8 @@
+Perhitungan Time Dial Setting Inverse Time Overcurrent Relay menggunakan Metode Grey Wolf Optimization
+
+Tujuan
+Untuk meningkatkan keandalan dalam mengatasi gangguan, maka diperlukan adanya koordinasi antar rele
+
+Perlu dilakukan setting parameter rele untuk mendapatkan koordinasi yang baik, salah satunya adalah penentuan TDS
+
+Dalam menentukan nilai TDS, para teknisi umumnya menggunakan perhitungan manual dan melakukan pergeseran kurva secara manual sampai dirasa mendapatkan koordinasi yang tepat
