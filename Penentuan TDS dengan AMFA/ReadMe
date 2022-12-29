@@ -1,0 +1,5 @@
+Perhitungan Time Dial Setting Inverse Time Overcurrent Relay menggunakan Metode Adaptive Modified Firefly Algorithm pada Sistem UJI
+
+Tujuan
+1. Mendapatkan time dial setting, I pickup, dan time operation untuk rele inverse pada sistem uji menggunakan Adaptive Modified Firefly Algorithm
+2. Mendapatkan koordinasi proteksi yang baik dari implementasi TDS hasil perhitungan menggunakan Adaptive Modified Firefly Algorithm pada sistem uji
