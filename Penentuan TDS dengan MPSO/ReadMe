@@ -1,1 +1,3 @@
 KOORDINASI PENGAMAN DENGAN MODIFIED PARTICLE SWARM OPTIMIZATION
+
+Pada sistem single line yang digunakan ada beberapa tegangan yang digunakan yaitu: 0,4 kV, 6 kV, 20 kV, dan 150 kV. Untuk mengkonversi tegangan tersebut, terdapat transformator step- up dan transformator step-down
